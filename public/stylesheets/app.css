@@ -1,0 +1,54 @@
+/*body {
+	font-family: futura;
+	background-color: white;
+}
+
+#container {
+	background-color: rgba(140,100,140,0.8);
+	border-radius: 5px;
+	padding: 20px 100px;
+	margin: 20px;
+}
+
+.nav {
+	text-align: center;
+}
+
+#subtitle {
+	line-height: 0.2em;
+}
+
+h1{
+	font-size: 2.7em;
+}
+
+h4{
+	font-size: 1.2em;
+}*/
+
+.container.main {
+    margin-top: 7.0em;
+}
+
+.container.main.map{
+	margin-top: 5px;
+}
+
+#map{
+	align-self: center;
+	display: inline-flex;
+}
+
+#link{
+	text-align: center;
+	align-self: center;
+}
+
+i.icon{
+    font-size: 2em;
+}
+
+.powered-by {
+	text-align: center;
+}
+
